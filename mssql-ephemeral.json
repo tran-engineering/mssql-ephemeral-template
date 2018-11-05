@@ -146,7 +146,7 @@
             "displayName": "Memory Limit",
             "description": "Maximum amount of memory the container can use.",
             "required": true,
-            "value": "512Mi"
+            "value": "1024Mi"
         },
         {
             "name": "IMAGE",
